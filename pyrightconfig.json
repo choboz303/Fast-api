@@ -1,0 +1,6 @@
+{
+    "_comment": "typeCheckingMode ~ off basic strict",
+    "typeCheckingMode": "off",
+    "reportMissingImports": false,
+    "reportMissingTypeStubs": false
+}
